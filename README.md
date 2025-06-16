@@ -1,4 +1,4 @@
-# MCGoGo Enemy Predictor by Afidz
+# MCGoGo Enemy Predictor
 
 MCGoGo Enemy Predictor adalah aplikasi berbasis Next.js yang dirancang untuk membantu memprediksi musuh pada game Magic Chess. Aplikasi ini menggunakan logika prediksi yang mengharuskan pengguna memasukkan beberapa input secara manual (misal: nama p8, input untuk ronde 2, 4, 5, dan 6) sehingga beberapa ronde dapat terprediksi secara otomatis. 
 
@@ -37,3 +37,6 @@ Pastikan Anda sudah menginstall [Node.js](https://nodejs.org/) (versi 16) dan ke
 1. Clone repository ini:
    ```bash
    git clone https://github.com/username/mcgogo-enemy-predictor.git
+
+
+buatkan kata2 yang berbeda tetapi jelas untuk readme.md github
