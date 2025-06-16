@@ -135,7 +135,7 @@ export default function Home() {
     <div className="container my-4">
       {/* Header & Reset Button */}
       <div className="d-flex justify-content-between align-items-center mb-3">
-        <h2 className="mb-0">MCGoGo Enemy Predictor by Afidz</h2>
+        <h2 className="mb-0">MCGoGo Enemy Predictor</h2>
         <button className="btn btn-danger" onClick={resetGame}>
           Reset
         </button>
@@ -144,7 +144,7 @@ export default function Home() {
       {/* Subjudul */}
       <div className="mb-3">
         <p className="text-muted">
-          Dibuat dengan rumus dari YT Alphine dengan bantuan ChatGPT
+          Dibuat dengan rumus dari YT Alphine
         </p>
       </div>
 
@@ -308,7 +308,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="text-center mt-4">
-        <small>Copyright by Afidz x ChatGPT 03-mini-high 2025</small>
+        <small>Copyright ChatGPT 03-mini-high 2025</small>
       </footer>
     </div>
   );
